@@ -268,13 +268,211 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acceso',
+      significado:
+        'Permiso autorizado para consultar, registrar, modificar o gestionar información dentro de un sistema o proceso institucional.',
+    },
+    {
+      termino: 'Archivo',
+      significado:
+        'Conjunto organizado de documentos y registros que respaldan el trámite realizado y permiten su conservación y consulta posterior.',
+    },
+    {
+      termino: 'Canal de atención',
+      significado:
+        'Medio a través del cual el usuario presenta, consulta o hace seguimiento a un requerimiento, como correo electrónico, atención presencial, teléfono o plataforma institucional.',
+    },
+    {
+      termino: 'Canalización',
+      significado:
+        'Remisión formal de un requerimiento a otra área o responsable cuando su atención excede la competencia de quien lo recibe inicialmente.',
+    },
+    {
+      termino: 'Cierre',
+      significado:
+        'Etapa final del trámite en la que se registra la solución, se consolida la actuación realizada y se verifica la finalización del caso.',
+    },
+    {
+      termino: 'Clasificación',
+      significado:
+        'Proceso mediante el cual se identifica la naturaleza, categoría, urgencia, complejidad o alcance de un requerimiento.',
+    },
+    {
+      termino: 'Confidencialidad',
+      significado:
+        'Principio que protege la información frente a accesos, consultas o divulgaciones no autorizadas.',
+    },
+    {
+      termino: 'Control de acceso',
+      significado:
+        'Conjunto de medidas que regulan quién puede ingresar a sistemas, consultar datos o gestionar información según su rol y autorización.',
+    },
+    {
+      termino: 'Escalamiento',
+      significado:
+        'Procedimiento mediante el cual un requerimiento es trasladado a un nivel técnico, jerárquico o funcional superior para su atención especializada.',
+    },
+    {
+      termino: 'Indicador',
+      significado:
+        'Medida utilizada para evaluar el desempeño de la atención, los tiempos de respuesta, la calidad del cierre o la satisfacción del usuario.',
+    },
+    {
+      termino: 'Priorización',
+      significado:
+        'Proceso de asignación de nivel de atención a un requerimiento según criterios como urgencia legal, impacto operativo o complejidad técnica.',
+    },
+    {
+      termino: 'Protocolo de servicio',
+      significado:
+        'Conjunto de lineamientos y reglas que orientan la forma en que debe atenderse, registrarse y gestionarse un requerimiento del usuario.',
+    },
+    {
+      termino: 'Requerimiento',
+      significado:
+        'Solicitud, consulta, validación, reclamo, seguimiento o petición presentada por un usuario frente a un proceso contable o tributario.',
+    },
+    {
+      termino: 'Respuesta técnica',
+      significado:
+        'Comunicación clara, precisa y sustentada que se emite al usuario con base en información validada y soportes verificables.',
+    },
+    {
+      termino: 'Usuario externo',
+      significado:
+        'Persona natural o jurídica que se relaciona con la organización desde fuera de su estructura interna y presenta solicitudes o requerimientos.',
+    },
+    {
+      termino: 'Usuario interno',
+      significado:
+        'Persona que hace parte de la organización y requiere información o gestión relacionada con los procesos contables y tributarios para cumplir sus funciones.',
+    },
+    {
+      termino: 'Validación',
+      significado:
+        'Revisión técnica de datos, documentos o registros para verificar su exactitud, integridad, coherencia y pertinencia frente al requerimiento.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Archivo General de la Nación. (2020, noviembre). Modelo de gestión documental y administración de archivos.',
+      link:
+        'https://www.archivogeneral.gov.co/sites/default/files/Estructura_Web/5_Consulte/Recursos/Publicacionees/V3_MGDA-min.pdf',
+    },
+    {
+      referencia:
+        'Arévalo, J. (2017). Gestión de la calidad en servicios: herramientas para satisfacción del cliente. Ediciones Uninariño.',
+      link: '',
+    },
+    {
+      referencia:
+        'Berry, L. L., y Parasuraman, A. (2015). La calidad del servicio: un instrumento competitivo. Ediciones Díaz de Santos.',
+      link: '',
+    },
+    {
+      referencia:
+        'CanalAGNColombia (2025). Videoconferencia - Organización de archivos e inventarios documentales. [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=b79LuGZkK2w',
+    },
+    {
+      referencia:
+        'Congreso de Colombia. (2000, 14 de julio). Ley 594 de 2000. Por medio de la cual se dicta la Ley General de Archivos y se dictan otras disposiciones.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4275',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2012). Ley 1581 de 2012, por la cual se dictan disposiciones generales para la protección de datos personales. Función Pública.',
+      link: '',
+    },
+    {
+      referencia:
+        'Departamento Administrativo de la Función Pública. (2022). Concepto 186731.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=195324',
+    },
+    {
+      referencia:
+        'Departamento Administrativo de la Función Pública. (2024, diciembre). Manual operativo del Modelo Integrado de Planeación y Gestión.',
+      link:
+        'https://www1.funcionpublica.gov.co/documents/28587410/56548624/2024-12-18_Manual_operativo_mipg_6V-publicada.pdf',
+    },
+    {
+      referencia:
+        'Departamento Administrativo de la Función Pública. (2025). Modelo de servicio a las ciudadanías.',
+      link:
+        'https://www.funcionpublica.gov.co/documents/d/guest/modelo-servicio-ciudano',
+    },
+    {
+      referencia:
+        'DIAN. (2022). ¿Cómo radicar una PQRSD en servicios digitales? [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=0jwJ2G0VEa0',
+    },
+    {
+      referencia: 'DIAN. (s. f.). Canales virtuales de atención.',
+      link:
+        'https://www.dian.gov.co/Paginas/canales-virtuales-de-atencion-2020.aspx',
+    },
+    {
+      referencia:
+        'Domínguez, J. L. (2012). La gestión de la calidad del servicio al cliente en las organizaciones. ESIC Editorial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Función Pública. (2024). Estrategia de servicio a las ciudadanías. [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=ndLzs2zzN7k',
+    },
+    {
+      referencia: 'Función Pública. (s. f.). Gestión documental.',
+      link: 'https://www1.funcionpublica.gov.co/gestion-documental',
+    },
+    {
+      referencia:
+        'González, M. E. (2018). Protocolo de atención al cliente en servicios contables y financieros: estudio en empresas colombianas. Revista de Servucción, 8(3), 112-128.',
+      link: '',
+    },
+    {
+      referencia:
+        'Grupo Geard. (2023). Procedimientos para la atención al ciudadano [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=V6EgRsNWdbM',
+    },
+    {
+      referencia:
+        'Kotler, P., y Armstrong, G. (2017). Fundamentos de marketing (13.ª ed.). Pearson Education.',
+      link: '',
+    },
+    {
+      referencia:
+        'MinTIC. (2025). Documento maestro de los lineamientos del Modelo de Seguridad y Privacidad de la Información.',
+      link: '',
+    },
+    {
+      referencia: 'MinTIC. (s. f.). Gobierno digital.',
+      link:
+        'https://gobiernodigital.mintic.gov.co/seguridadyprivacidad/portal/Estrategias/MSPI/',
+    },
+    {
+      referencia:
+        'MinTIC. (s. f.). Modelo de Seguridad y Privacidad de la Información (MSPI).',
+      link: '',
+    },
+    {
+      referencia:
+        'República de Colombia. (2015). Decreto Único Reglamentario del Sector Comercio, Industria y Turismo.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76608',
+    },
+    {
+      referencia:
+        'República de Colombia. (2015, 30 de junio). Ley 1755 de 2015. Por medio de la cual se regula el Derecho Fundamental de Petición y se sustituye un título del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=65334',
+    },
+    {
+      referencia:
+        'Zeithaml, V. A. (2018). Services marketing: integrating customer focus across the firm (7.ª ed.). McGraw-Hill Education.',
       link: '',
     },
   ],
