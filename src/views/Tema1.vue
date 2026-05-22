@@ -181,7 +181,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Clasificación y categorías de requerimientos contables y tributarios
     p La #[b clasificación del requerimiento] permite ordenar las solicitudes según su naturaleza y orientar su tratamiento técnico. En procesos #[b contables y tributarios], esta clasificación suele abarcar #[b consultas generales], solicitudes de información, reportes especiales, validaciones, asesorías, reclamos y seguimiento de trámites.
-    p.mb-5 Esta diferenciación es importante porque cada categoría exige #[b tiempos], responsables, soportes y niveles de análisis distintos. Un #[b reclamo] por inconsistencia en un registro, por ejemplo, no se gestiona de la misma manera que una solicitud de #[b certificado] o una consulta general sobre un procedimiento (González, 2018). Además de la categoría temática, los requerimientos pueden clasificarse por.
+    p.mb-5 Esta diferenciación es importante porque cada categoría exige #[b tiempos], responsables, soportes y niveles de análisis distintos. Un #[b reclamo] por inconsistencia en un registro, por ejemplo, no se gestiona de la misma manera que una solicitud de #[b certificado] o una consulta general sobre un procedimiento (González, 2018). Además de la categoría temática, los requerimientos pueden clasificarse por:
     .bg-carrusel
       .px-5
         .row.justify-content-center.mb-5

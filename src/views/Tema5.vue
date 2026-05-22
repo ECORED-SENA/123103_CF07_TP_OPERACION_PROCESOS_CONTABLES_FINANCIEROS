@@ -410,20 +410,20 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Porcentaje de requerimientos cerrados en plazo
-                td.texto-left Casos cerrados dentro del tiempo objetivo / total cerrados. Verifica oportunidad del servicio
+                td.texto-left Casos cerrados dentro del tiempo objetivo / total cerrados. Verifica oportunidad del servicio.
               tr
                 td.ajuste-border-tabla.texto-left Tiempo promedio de cierre
-                td.texto-left Suma de tiempos de atención / total de casos cerrados. Permite analizar duración real del trámite
+                td.texto-left Suma de tiempos de atención / total de casos cerrados. Permite analizar duración real del trámite.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Casos reabiertos
-                td.texto-left Total de requerimientos cerrados que vuelven a activarse. Evidencia debilidad en la resolución o cierre
+                td.texto-left Total de requerimientos cerrados que vuelven a activarse. Evidencia debilidad en la resolución o cierre.
               tr
                 td.ajuste-border-tabla.texto-left Pendientes vencidos
-                td.texto-left Requerimientos abiertos fuera de plazo. Identifica rezagos críticos
+                td.texto-left Requerimientos abiertos fuera de plazo. Identifica rezagos críticos.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Requerimientos con soporte incompleto de cierre
-                td.texto-left Casos cerrados sin evidencia suficiente. Mide calidad documental del cierre
-    p.mb-5 Como apoyo al proceso formativo, se recomienda revisar los siguientes recursos, orientados al fortalecimiento de competencias en servicio al ciudadano, gestión documental, atención institucional y radicación de solicitudes en entornos digitales. Estos materiales aportan referentes prácticos para comprender procedimientos
+                td.texto-left Casos cerrados sin evidencia suficiente. Mide calidad documental del cierre.
+    p.mb-5 Como apoyo al proceso formativo, se recomienda revisar los siguientes recursos, orientados al fortalecimiento de competencias en servicio al ciudadano, gestión documental, atención institucional y radicación de solicitudes en entornos digitales. Estos materiales aportan referentes prácticos para comprender procedimientos, mejorar la trazabilidad y aplicar buenas prácticas en la atención de requerimientos.
     .row.justify-content-center.mb-5
       .col-xl-10
         .row.align-items-center

@@ -186,7 +186,7 @@
               .col-12
                 img(src='@/assets/curso/temas/img121.png').m-auto
             h4.mb-3.estilo-text Responsabilidad
-            p.mb-0.text-center Implica precisar límites, pasos siguientes y necesidad de escalamiento, indicando cuando el caso pasa a revisión especializada
+            p.mb-0.text-center Implica precisar límites, pasos siguientes y necesidad de escalamiento, indicando cuándo el caso pasa a revisión especializada.
         p.mb-0 A partir de estos principios, puede observarse que la calidad de la respuesta no depende exclusivamente del contenido técnico, sino también de la forma en que la organización gestiona la relación con el usuario durante el trámite. En consecuencia, la comunicación posterior debe procurar equilibrio entre precisión, cortesía y utilidad, evitando tanto la rigidez excesiva como la informalidad improcedente en escenarios donde la información contable y tributaria requiere especial cuidado.
         Separador
         #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -404,7 +404,7 @@
               .col-8
                 img(src='@/assets/curso/temas/img138.svg' style="max-width: 90px").m-auto
             h4.mb-3.estilo-text Cierre o paso siguiente
-            p.mb-0.text-center Acción pendiente, canalización o finalización del trámite.
+            p.mb-0.text-center Acción pendiente; canalización o finalización del trámite.
         p.mb-5 La estructura anterior facilita que la comunicación mantenga coherencia interna y que la información se presente con mayor orden. Sin embargo, para que esa estructura resulte realmente útil, también es necesario precisar qué aporta cada componente dentro del trámite.
     .bg-slider.mb-5
       .px-5

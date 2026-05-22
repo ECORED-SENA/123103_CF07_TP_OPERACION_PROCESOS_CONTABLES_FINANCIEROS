@@ -7,7 +7,7 @@
         span 3
       h1 Gestión de información contable y tributaria
     p La #[b gestión de información contable y tributaria] constituye una base técnica de la atención al usuario, porque permite transformar un requerimiento en una #[b respuesta sustentada], verificable y coherente con los registros de la organización. En este punto del proceso ya no basta con haber identificado al usuario, clasificado la solicitud y organizado la atención; también es necesario consultar #[b fuentes de información confiables], validar datos, controlar accesos y producir salidas que respalden la respuesta emitida.
-    p.mb-5 En Colombia, la Ley 1581 de 2012 define el tratamiento de datos personales, sus principios y su ámbito de aplicación para entidades públicas y privadas, lo que da sustento a la exigencia de gestionar la información con legalidad, finalidad y control (Arévalo, 2017; Congreso de la República de Colombia, 2012). 
+    p.mb-5 En Colombia, la <b> Ley 1581 de 2012</b> define el tratamiento de datos personales, sus principios y su ámbito de aplicación para entidades públicas y privadas, lo que da sustento a la exigencia de gestionar la información con legalidad, finalidad y control (Arévalo, 2017; Congreso de la República de Colombia, 2012). 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/img66.jpg')})`}"
@@ -150,7 +150,7 @@
         Separador
         #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 3.2 Consulta de información
-        p.mb-5 #[b La consulta de información] consiste en recuperar, revisar y utilizar datos pertinentes para atender un requerimiento de manera técnica y sustentada. En procesos contables y tributarios, esta labor puede realizarse en software contable, bases de datos tributarias, portales internos, repositorios documentales y módulos de reportes.
+        p.mb-5 #[b La consulta de información] consiste en recuperar, revisar y utilizar datos pertinentes para atender un requerimiento de manera técnica y sustentada. En procesos #[b contables y tributarios], esta labor puede realizarse en software contable, bases de datos tributarias, portales internos, repositorios documentales y módulos de reportes.
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/img75.jpg')})`}"
@@ -372,7 +372,7 @@
             p.mb-0.text-center Corresponde a la relación directa con la solicitud del usuario, lo que permite evitar información irrelevante o excesiva.
         .row.justify-content-center.align-items-center.mb-5
           .col-xl.mb-4.mb-lg-0
-            p Los criterios anteriores permiten establecer una revisión general de #[b la calidad de la información]; sin embargo, en la atención de requerimientos contables y tributarios esa validación no puede quedarse en una comprobación aislada de exactitud o integridad.
+            p Los criterios anteriores permiten establecer una revisión general de #[b la calidad de la información]; sin embargo, en la atención de requerimientos contables y tributarios, esa validación no puede quedarse en una comprobación aislada de exactitud o integridad.
             p.mb-0 En muchos casos es necesario #[b contrastar registros] provenientes de distintas fuentes, debido a que una misma solicitud puede involucrar comprobantes, movimientos, soportes documentales y estados de trámite que no siempre coinciden de manera inmediata. Por ello, #[b la consistencia de la información] se fortalece cuando el análisis incorpora verificaciones cruzadas que permitan identificar diferencias, confirmar correspondencias y sustentar técnicamente la decisión adoptada frente al requerimiento.
           .col-xl-auto.col-md-9(data-aos="fade-left")
             figure
@@ -395,27 +395,27 @@
                 td.ajuste-border-tabla.texto-left Valor pagado
                 td.ajuste-border-tabla.texto-left Comprobante contable
                 td.ajuste-border-tabla.texto-left Base tributaria
-                td.texto-left Confirmar coincidencia del monto
+                td.texto-left Confirmar coincidencia del monto.
               tr
                 td.ajuste-border-tabla.texto-left Fecha de registro
                 td.ajuste-border-tabla.texto-left #[i Software] contable
                 td.ajuste-border-tabla.texto-left Soporte documental
-                td.texto-left Verificar correspondencia temporal
+                td.texto-left Verificar correspondencia temporal.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Identificación del tercero
                 td.ajuste-border-tabla.texto-left Maestro de terceros
                 td.ajuste-border-tabla.texto-left Documento soporte
-                td.texto-left Confirmar coincidencia del titular
+                td.texto-left Confirmar coincidencia del titular.
               tr
                 td.ajuste-border-tabla.texto-left Concepto del movimiento
                 td.ajuste-border-tabla.texto-left Asiento contable
                 td.ajuste-border-tabla.texto-left Declaración o anexo
-                td.texto-left Revisar coherencia del concepto
+                td.texto-left Revisar coherencia del concepto.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Estado del trámite
                 td.ajuste-border-tabla.texto-left Portal interno
                 td.ajuste-border-tabla.texto-left Historial de atención
-                td.texto-left  Verificar avance y actuaciones previas
+                td.texto-left  Verificar avance y actuaciones previas.
     Separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.4 Seguridad de acceso, confidencialidad y trazabilidad en el uso de la información
@@ -558,7 +558,7 @@
     Separador
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.5 Reportes, consultas estructuradas e integración de datos para la respuesta al usuario
-    p.mb-5 #[b La generación de reportes] constituye una salida técnica del proceso de consulta y validación de información. En atención de requerimientos contables y tributarios, los reportes permiten #[b presentar datos organizados por periodo, tercero, cuenta, obligación, movimiento o estado del trámite], lo que facilita sustentar respuestas de forma más clara y verificable. Sin embargo, un reporte no debe entenderse como una simple impresión o descarga automática. 
+    p.mb-5 #[b La generación de reportes] constituye una salida técnica del proceso de consulta y validación de información. En atención a requerimientos contables y tributarios, los reportes permiten #[b presentar datos organizados por periodo, tercero, cuenta, obligación, movimiento o estado del trámite], lo que facilita sustentar respuestas de forma más clara y verificable. Sin embargo, un reporte no debe entenderse como una simple impresión o descarga automática. 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/img104.jpg')})`}"
@@ -630,7 +630,7 @@
               .col-12
                 img(src='@/assets/curso/temas/img107.png').m-auto
             h4.mb-3.estilo-text Consulta relacional
-            p.mb-0.text-center Facilita vincular datos de varias tablas o módulos, por lo que se debe confirmar la coherencia entre los campos relacionados
+            p.mb-0.text-center Facilita vincular datos de varias tablas o módulos, por lo que se debe confirmar la coherencia entre los campos relacionados.
           .tarjeta.color-acento-botones.fit___card-sinbordes
             .row.justify-content-center.mb-4
               .col-12
@@ -668,17 +668,17 @@
                 td.ajuste-border-tabla.texto-left Guías y capacitaciones de Siigo Nube
                 td.ajuste-border-tabla.texto-left Portal de Clientes Siigo
                 td.ajuste-border-tabla.texto-left #[i Software] contable
-                td.texto-left Permite revisar procesos de reportes contables y tributarios, configuración de impuestos y manejo de funcionalidades del sistema
+                td.texto-left Permite revisar procesos de reportes contables y tributarios, configuración de impuestos y manejo de funcionalidades del sistema.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Canales virtuales de atención y servicios en línea
                 td.ajuste-border-tabla.texto-left DIAN
                 td.ajuste-border-tabla.texto-left Bases de datos tributarias y servicios tributarios
-                td.texto-left Facilita comprender trámites, consultas y servicios disponibles en el portal transaccional y en los canales virtuales de la entidad
+                td.texto-left Facilita comprender trámites, consultas y servicios disponibles en el portal transaccional y en los canales virtuales de la entidad.
               tr
                 td.ajuste-border-tabla.texto-left Video atención y autogestión
                 td.ajuste-border-tabla.texto-left DIAN
                 td.ajuste-border-tabla.texto-left Portales institucionales de atención
-                td.texto-left Sirve como referente de interacción formal, trazabilidad y atención por medios virtuales
+                td.texto-left Sirve como referente de interacción formal, trazabilidad y atención por medios virtuales.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Introducción a Transact-SQL
                 td.ajuste-border-tabla.texto-left Microsoft Learn
@@ -688,13 +688,13 @@
                 td.ajuste-border-tabla.texto-left Tutorial de MySQL
                 td.ajuste-border-tabla.texto-left Oracle MySQL Documentation
                 td.ajuste-border-tabla.texto-left Consultas estructuradas y bases de datos
-                td.texto-left Permite practicar consultas, creación y uso de bases de datos y recuperación de información
+                td.texto-left Permite practicar consultas, creación y uso de bases de datos y recuperación de información.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Guías internas de la organización
                 td.ajuste-border-tabla.texto-left Manuales o tutoriales institucionales
                 td.ajuste-border-tabla.texto-left Portales internos
-                td.texto-left Son la referencia más pertinente cuando se requiere aprender el manejo del portal específico usado por la entidad
-    p.mb-5 Como complemento del capítulo, estos recursos permiten profundizar en herramientas y entornos de consulta que apoyan la atención del requerimiento. Su valor no radica únicamente en fortalecer el manejo operativo de una plataforma, sino en ampliar la comprensión sobre recuperación de información, generación de reportes, uso de servicios institucionales y aplicación de consultas estructuradas en contextos de atención
+                td.texto-left Son la referencia más pertinente cuando se requiere aprender el manejo del portal específico usado por la entidad.
+    p.mb-5 Como complemento del capítulo, estos recursos permiten profundizar en herramientas y entornos de consulta que apoyan la atención del requerimiento. Su valor no radica únicamente en fortalecer el manejo operativo de una plataforma, sino en ampliar la comprensión sobre recuperación de información, generación de reportes, uso de servicios institucionales y aplicación de consultas estructuradas en contextos de atención.
     .caja-tema2-1.mb-0(data-aos="flip-up")
       .row.align-items-center
         .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")

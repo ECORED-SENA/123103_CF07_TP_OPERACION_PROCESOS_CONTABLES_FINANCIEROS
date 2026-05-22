@@ -233,7 +233,7 @@
               figure.mb-4(data-aos="fade-left")
                 img(src='@/assets/curso/temas/img11.svg', alt="" style="max-width: 90px").m-auto
             p.mb-0.text-center Traslado a un responsable.
-    p.mb-5 Lo importante aquí es entender que estas tres acciones forman una unidad operativa: recibir sin validar genera desorden, validar sin procesar produce estancamiento, y procesar sin una recepción adecuada compromete la consistencia del trámite (Arévalo, 2017). Las acciones iniciales del trámite cumplen funciones específicas dentro de la gestión operativa: 
+    p.mb-5 Lo importante aquí es entender que estas tres acciones forman una unidad operativa: recibir sin validar genera desorden, validar sin procesar produce estancamiento y procesar sin una recepción adecuada compromete la consistencia del trámite (Arévalo, 2017). Las acciones iniciales del trámite cumplen funciones específicas dentro de la gestión operativa: 
     TabsC.color-acento-contenido.mb-0(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Recepción")
         .row.justify-content-center.align-items-center
