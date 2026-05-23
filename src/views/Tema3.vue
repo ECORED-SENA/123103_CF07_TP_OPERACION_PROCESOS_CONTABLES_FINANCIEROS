@@ -53,28 +53,28 @@
           .row.justify-content-center.mb-3
             .col-7
               figure.mb-4(data-aos="fade-right")
-                img(src='@/assets/curso/temas/img11.svg', alt="" style="max-width: 90px").m-auto
+                img(src='@/assets/curso/temas/d.svg', alt="" style="max-width: 90px").m-auto
             p.mb-0.text-center El control de transacciones.
       .col-xl-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         .caja-tema1-1.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure.mb-4(data-aos="fade-right")
-                img(src='@/assets/curso/temas/img11.svg', alt="" style="max-width: 90px").m-auto
+                img(src='@/assets/curso/temas/c.svg', alt="" style="max-width: 90px").m-auto
             p.mb-0.text-center La recuperación de evidencias.
       .col-xl-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         .caja-tema1-1.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure.mb-4(data-aos="fade-left")
-                img(src='@/assets/curso/temas/img11.svg', alt="" style="max-width: 90px").m-auto
+                img(src='@/assets/curso/temas/b.svg', alt="" style="max-width: 90px").m-auto
             p.mb-0.text-center La organización de la información según roles.
       .col-xl-3.col-md-9(data-aos="zoom-in")
         .caja-tema1-1.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure.mb-4(data-aos="fade-left")
-                img(src='@/assets/curso/temas/img11.svg', alt="" style="max-width: 90px").m-auto
+                img(src='@/assets/curso/temas/a.svg', alt="" style="max-width: 90px").m-auto
             p.mb-0.text-center La consulta conforme a necesidades autorizadas.
     p.mb-5 Esta comprensión resulta coherente con la noción de #[b bases de datos y tratamiento de datos personales] prevista en la #[b Ley 1581 de 2012] y con los lineamientos de seguridad y privacidad aplicables al ciclo de vida de la información (Congreso de la República de Colombia, 2012). 
     .caja-tema2.mb-5(data-aos="zoom-in")

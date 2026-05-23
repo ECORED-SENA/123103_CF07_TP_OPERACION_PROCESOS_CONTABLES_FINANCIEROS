@@ -288,27 +288,27 @@
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/img179.svg' style="max-width: 90px").m-auto
+            img(src='@/assets/curso/temas/e.svg' style="max-width: 90px").m-auto
         p.mb-0.text-center Comprensión de la respuesta.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/img179.svg' style="max-width: 90px").m-auto
+            img(src='@/assets/curso/temas/f.svg' style="max-width: 90px").m-auto
         p.mb-0.text-center Facilidad del canal utilizado.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/img179.svg' style="max-width: 90px").m-auto
+            img(src='@/assets/curso/temas/g.svg' style="max-width: 90px").m-auto
         p.mb-0.text-center Oportunidad de atención.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/img179.svg' style="max-width: 90px").m-auto
+            img(src='@/assets/curso/temas/h.svg' style="max-width: 90px").m-auto
         p.mb-0.text-center Utilidad de la información suministrada.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/img179.svg' style="max-width: 90px").m-auto
+            img(src='@/assets/curso/temas/i.svg' style="max-width: 90px").m-auto
         p.mb-0.text-center Percepción sobre el trato recibido.
     p.mb-5 De lo contrario, la medición se vuelve superficial y aporta poco al mejoramiento de los procesos (Berry & Parasuraman, 2015).  Estas dimensiones permiten diseñar instrumentos más precisos y útiles para la mejora del servicio:
     .row.align-items-center.mb-5
