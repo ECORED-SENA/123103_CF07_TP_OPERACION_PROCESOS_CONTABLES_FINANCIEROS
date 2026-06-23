@@ -106,7 +106,7 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Algunos usuarios requieren lenguaje técnico especializado, mientras otros necesitan comunicación más clara y directa.
+              | Algunos usuarios requieren lenguaje técnico especializado, mientras que otros necesitan comunicación más clara y directa.
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/img8.png").m-auto

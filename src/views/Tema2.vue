@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Gestión operativa y planificación de la atención
-    p.mb-5 La #[b gestión operativa] y la #[b planificación de la atención] permiten transformar un requerimiento recibido en un trámite organizado, controlado y susceptible de seguimiento. En procesos #[b contables y tributarios], esta fase adquiere especial importancia porque no basta con identificar al usuario y comprender la solicitud; también es necesario definir cómo se va a atender, en qué secuencia, con qué tiempos, mediante qué recursos y bajo qué criterios de #[b prioridad]. Cuando esta organización no existe, la atención se vuelve #[b reactiva] y se presentan efectos como los siguientes:
+    p.mb-5 La #[b gestión operativa] y la #[b planificación de la atención] permitan transformar un requerimiento recibido en un trámite organizado, controlado y susceptible de seguimiento. En procesos #[b contables y tributarios], esta fase adquiere especial importancia porque no basta con identificar al usuario y comprender la solicitud; también es necesario definir cómo se va a atender, en qué secuencia, con qué tiempos, mediante qué recursos y bajo qué criterios de #[b prioridad]. Cuando esta organización no existe, la atención se vuelve #[b reactiva] y se presentan efectos como los siguientes:
     .row.justify-content-center.mb-5
       .col-xl-10
         .row.justify-content-center

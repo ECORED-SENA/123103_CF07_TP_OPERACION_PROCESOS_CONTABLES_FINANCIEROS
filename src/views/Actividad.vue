@@ -21,7 +21,7 @@ export default {
         'Cuestionario de verificación sobre gestión técnica de requerimientos y atención al usuario en procesos contables y tributarios',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión del proceso de atención y trámite de requerimientos del usuario en contextos contables y tributarios, mediante la identificación del usuario y del requerimiento, la organización de la atención, la consulta y validación de información, la elaboración de respuestas técnicas y el cierre del trámite conforme al procedimiento técnico y al protocolo de servicio.',
+        '<b>Objetivo:</b> evaluar la comprensión del proceso de atención y trámite de requerimientos del usuario en contextos contables y tributarios, mediante la identificación del usuario y del requerimiento, la organización de la atención, la consulta y validación de información, la elaboración de respuestas técnicas y el cierre del trámite conforme al procedimiento técnico y al protocolo de servicio.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

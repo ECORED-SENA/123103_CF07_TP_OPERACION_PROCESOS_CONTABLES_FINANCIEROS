@@ -373,7 +373,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-xl.mb-4.mb-lg-0
             p Los criterios anteriores permiten establecer una revisión general de #[b la calidad de la información]; sin embargo, en la atención de requerimientos contables y tributarios, esa validación no puede quedarse en una comprobación aislada de exactitud o integridad.
-            p.mb-0 En muchos casos es necesario #[b contrastar registros] provenientes de distintas fuentes, debido a que una misma solicitud puede involucrar comprobantes, movimientos, soportes documentales y estados de trámite que no siempre coinciden de manera inmediata. Por ello, #[b la consistencia de la información] se fortalece cuando el análisis incorpora verificaciones cruzadas que permitan identificar diferencias, confirmar correspondencias y sustentar técnicamente la decisión adoptada frente al requerimiento.
+            p.mb-0 En muchos casos es necesario #[b contrastar registros] provenientes de distintas fuentes, debido a que una misma solicitud puede involucrar comprobantes, movimientos, soportes documentales y estados de trámite que no siempre coinciden de manera inmediata. Por ello, #[b la consistencia de la información] se fortalece cuando el análisis incorpora verificaciones cruzadas que permiten identificar diferencias, confirmar correspondencias y sustentar técnicamente la decisión adoptada frente al requerimiento.
           .col-xl-auto.col-md-9(data-aos="fade-left")
             figure
               img(src="@/assets/curso/temas/img91.png").m-auto

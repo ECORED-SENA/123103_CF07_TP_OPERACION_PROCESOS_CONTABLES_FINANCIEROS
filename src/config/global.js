@@ -239,7 +239,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/123103_CF07_DU.pdf',
+        download: 'downloads/123103_CF07_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -518,7 +518,7 @@ export default {
         },
         {
           nombre: 'Cielo Damaris Angulo Rodríguez',
-          cargo: 'Desarrollador fullstack',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -536,7 +536,13 @@ export default {
         },
         {
           nombre: 'Juan Pablo Rojas Polania',
-          cargo: 'Animador y productor multimedia',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor audiovisual',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

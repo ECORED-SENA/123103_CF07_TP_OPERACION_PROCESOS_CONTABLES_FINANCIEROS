@@ -399,7 +399,7 @@
     .row.justify-content-center.mb-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
-          h5 Tabla 5.
+          h5 Tabla 6.
           span Indicadores para evaluar oportunidad, cierre y calidad documental de los requerimientos
         .tabla-a(data-aos="zoom-in")
           table
