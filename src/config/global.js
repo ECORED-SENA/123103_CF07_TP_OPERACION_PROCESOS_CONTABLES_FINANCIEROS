@@ -494,7 +494,7 @@ export default {
       autores: [
         {
           nombre: 'Paola Andrea Tello Zambrano',
-          cargo: 'Experto temático',
+          cargo: 'Experta temática',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
