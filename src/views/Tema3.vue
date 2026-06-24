@@ -704,7 +704,7 @@
           h4 Ejercicio aplicado 1
           p.mb-0 Se invita a leer el documento Ejercicio aplicado, donde se aborda la gestión de información para la atención de un requerimiento contable y tributario relacionado con la validación de pagos, revisión documental y aclaración de inconsistencias en registros financieros.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_Ejercicio aplicado1.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_Ejercicio aplicado1.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 

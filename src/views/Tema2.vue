@@ -487,7 +487,7 @@
           h4 Caso empresarial
           p.mb-0 Se invita a leer el documento #[b Caso empresarial], donde se aborda la atención de un requerimiento en una empresa de servicios contables y tributarios, relacionado con la validación urgente de un pago tributario, solicitud de soportes y revisión de posibles impactos en obligaciones próximas a vencer. 
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_Caso_empresarial_atencion_requerimiento_empresa_servicios_contables_tributarios.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_Caso_empresarial_atencion_requerimiento_empresa_servicios_contables_tributarios.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 

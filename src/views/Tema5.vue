@@ -458,7 +458,7 @@
           h4 Ejercicio aplicado 3
           p.mb-0 Se invita a leer el documento Ejercicio aplicado 3, donde se aborda el cierre y la evaluación de un requerimiento contable y tributario previamente validado, con énfasis en la trazabilidad documental, registro final y medición de la calidad del servicio.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_Ejercicio aplicado3.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_Ejercicio aplicado3.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
